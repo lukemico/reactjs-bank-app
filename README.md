@@ -2,7 +2,7 @@
 
 ReactJS form application showcasing a fake bank-account transfer funds screen with front-end side functionality and validation.
 
-Includes examples of:
+This application includes examples of:
 
 -   Validation
 -   Modals
